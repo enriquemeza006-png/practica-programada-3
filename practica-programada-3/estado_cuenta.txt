@@ -1,0 +1,26 @@
+ESTADO DE CUENTA
+
+DETALLE DE TRANSACCIONES
+
+ID: 1
+Descripcion: Compra en supermercado
+Monto: ₡12,500.00
+
+ID: 2
+Descripcion: Compra de gasolina
+Monto: ₡8,500.00
+
+ID: 3
+Descripcion: Compra de ropa
+Monto: ₡15,000.00
+
+ID: 4
+Descripcion: Compra de alimentos
+Monto: ₡10,000.00
+
+RESUMEN DEL ESTADO DE CUENTA
+Total de contado: ₡46,000.00
+Interes del 2.6%: ₡1,196.00
+Total con intereses: ₡47,196.00
+Cashback del 0.1%: ₡46.00
+Total final a pagar: ₡47,150.00
